@@ -1,0 +1,129 @@
+/* 1 */
+html {
+    background: url(../img/pink-flowers.webp) #B4B4B4;
+    background-size: 10%;
+}
+
+/* 1 */
+body {
+    font-family: 'Roboto', sans-serif;
+    max-width: 89%;
+    padding: 96px 50px 18px;
+    margin: 0 auto;
+    margin-bottom: 26px;
+    background-color: #fff;
+}
+
+/* 1 */
+p {
+    padding: 2px 0;
+}
+
+/* 10 */
+.header {
+    margin: 0 0 57px 0;
+}
+
+/* 10 */
+.header__heading {
+    margin: 0 0 46px 0;
+    font-size: 2rem;
+    color: #A11414;
+}
+
+/* 10 */
+.img {
+    border: 1px solid black;
+    border-radius: 2px;
+}
+
+/* 10 */
+.img__item {
+    width: 100%;
+    padding: 14px 13px;
+}
+
+/* 10 */
+.first__section {
+    display: flex;
+}
+
+/* 10 */
+.fisrt__article {
+    margin: 0 3px 0 0;
+}
+
+/* 10 */
+.second__section {
+    padding: 31px 0 35px;
+}
+
+/* 10 */
+.article__heading {
+    margin: 0 0 15px 0;
+    font-size: 1.5rem;
+    color: #A11414;
+}
+
+/* 10 */
+.article__item {
+    line-height: normal;
+    text-indent: 2.5rem;
+}
+
+/* 10 */
+.menu {
+    padding: 26px 93px 29px 29px;
+    font-family: 'Arial', sans-serif;
+    background-color: #D7D7D7;
+    border-radius: 2px 15px;
+}
+
+/* 10 */
+.menu__heading {
+    padding: 0 0 24px 0;
+}
+
+/* 10 */
+.menu__link {
+    text-decoration: none;
+    color: black;
+}
+
+/* 20 */
+.menu__link:hover {
+    font-weight: 700;
+    text-decoration: underline;
+    color: #A11414;
+}
+
+/* 10 */
+.footer {
+    width: 83%;
+    background: center/100% url(../img/footer__item.jpg);
+}
+
+/* 10 */
+.footer__item {
+    text-align: center;
+}
+
+/* 10 */
+.text__mod--up {
+    text-transform: uppercase;
+}
+
+/* 10 */
+.text__mod--bold {
+    font-weight: 700;
+}
+
+/* 10 */
+.text__mod--color {
+    color: #A11414;
+}
+
+/* 10 */
+.text__mod--cross {
+    text-decoration: line-through;
+}
