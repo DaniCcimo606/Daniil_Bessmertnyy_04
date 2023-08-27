@@ -7,10 +7,9 @@ body {
 }
 
 /* 1 */
-body {
-    font-family: 'Roboto', sans-serif;
-    max-width: 89%;
-    padding: 96px 50px 18px;
+.wrapper {
+    width: 88%;
+    padding: 0px 50px;
     margin: 0 auto;
     margin-bottom: 26px;
     background-color: #fff;
