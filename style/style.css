@@ -101,12 +101,11 @@ p {
 /* 10 */
 .footer {
     width: 83%;
-    background: center/100% url(../img/footer__item.jpg);
 }
 
 /* 10 */
 .footer__line {
-    
+    background: center/100% url(../img/footer__item.jpg);
 }
 
 /* 10 */
