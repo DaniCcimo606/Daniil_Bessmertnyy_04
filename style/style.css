@@ -9,7 +9,7 @@ body {
 /* 1 */
 .wrapper {
     width: 88%;
-    padding: 0 3%;
+    padding: 96px 3% 0;
     margin: 0 auto;
     margin-bottom: 26px;
     background-color: #fff;
