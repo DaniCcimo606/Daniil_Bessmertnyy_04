@@ -109,21 +109,21 @@ p {
 }
 
 /* 10 */
-.text__mod--up {
+.text__item--spec {
     text-transform: uppercase;
 }
 
 /* 10 */
-.text__mod--bold {
+.text__item--mod {
     font-weight: 700;
 }
 
 /* 10 */
-.text__mod--color {
+.text__item--add {
     color: #A11414;
 }
 
 /* 10 */
-.text__mod--cross {
+.text__item--alt {
     text-decoration: line-through;
 }
