@@ -14,7 +14,7 @@ p {
 /* 10 */
 .wrapper {
     width: 88%;
-    padding: 96px 3% 0;
+    padding: 3% 0;
     margin: 0 auto;
     margin-bottom: 26px;
     background-color: #fff;
@@ -22,6 +22,7 @@ p {
 
 /* 10 */
 .header {
+    padding-top: 96px;
     margin-bottom: 57px;
 }
 
