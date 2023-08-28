@@ -73,6 +73,10 @@ p {
     text-indent: 2.5rem;
 }
 
+.article__item--mod {
+    padding-top: 28px;
+}
+
 /* 10 */
 .menu {
     padding: 26px 6% 29px 2%;
